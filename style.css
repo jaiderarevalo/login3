@@ -1,0 +1,42 @@
+body {
+  background-color:  #156DA9;;
+  display: flex;
+  height: 100vh;
+}
+.container-input > div {
+  margin-top: 8px;
+}
+form {
+  background-color: #fff;
+  margin: auto;
+  width: 30%;
+  font-size: 50px;
+  padding-top: 5px;
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  text-transform: capitalize;
+  color:  #00C5E0;;
+}
+button {
+  font-size: 30px;
+  width: 20%;
+  color: #fff;
+  background-color: #00C5E0;
+border-radius: 10px;
+border: none;
+}
+a {
+  font-size: 20px;
+  color: #00C5E0;
+  text-decoration: none;
+}
+input{
+    width: 60%;
+    height: 30px;
+    border-radius: 10px;
+    border-color: #00C5E0;
+    text-align: center;
+}
+
